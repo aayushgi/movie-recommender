@@ -44,3 +44,9 @@ __FUTURE IMPROVMENT__
 Improve search functionality
 Enhance UI
 Add ratings and reviews
+
+__PROJECT LINK__
+https://movie-recommender-ayushgi.streamlit.app/
+
+
+--AYUSH SAXENA
