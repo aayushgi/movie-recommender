@@ -1,0 +1,5 @@
+essential libraries have to install
+streamlit
+pandas
+numpy
+scikit-learn
