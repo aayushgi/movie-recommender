@@ -1,6 +1,6 @@
 __CONTENT BASED MOVIE RECOMENDATION SYSTEM__
 
-A smart and interactive Movie Recommendation System built using Machine Learning that suggests movies based on user preferences. This project demonstrates how content-based filtering can be used to recommend similar movies using metadata such as genres, keywords, cast, and crew.
+A smart and interactive Movie Recommendation System built using Machine Learning that suggests movies based on user preferences. This project demonstrates how content-based filtering can be used to recommend similar movies using metadata such as genres, keywords, cast, and crew
 
 
 __PROJECT OVERVIEW__
